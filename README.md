@@ -6,4 +6,4 @@
   1. Test
   1. Production
 
-Customise accordingly
+Configure accordingly
