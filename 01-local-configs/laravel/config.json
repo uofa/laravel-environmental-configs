@@ -17,7 +17,7 @@
     "_comments" : "https doesn't work with (local) browserSync"
   },
   "folderSettings" : {
-    "src" : "../assets/",
+    "src" : "../assets",
     "dist" : "../public_html/assets",
     "images" : "images",
     "scripts" : "scripts",
