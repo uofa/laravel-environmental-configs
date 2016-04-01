@@ -22,8 +22,8 @@ return array(
         'mysql' => array(
             'driver'    => 'mysql',
             'host'      => 'mysql.abdn.ac.uk',
-            'database'  => 'xxx999_test',
-            'username'  => 'xxx999_test', //same as database name
+            'database'  => 'xxx999_staging',
+            'username'  => 'xxx999_staging', //same as database name
             'password'  => '',
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
